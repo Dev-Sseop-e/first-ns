@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "inventor6558",
+    "database": "myFirst_DB",
+    "host": "myfirst-db.cybqqrlzdcvv.us-east-2.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "admin",
+    "password": "inventor6558",
+    "database": "myFirst_DB",
+    "host": "myfirst-db.cybqqrlzdcvv.us-east-2.rds.amazonaws.com",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "admin",
+    "password": "inventor6558",
+    "database": "myFirst_DB",
+    "host": "myfirst-db.cybqqrlzdcvv.us-east-2.rds.amazonaws.com",
+    "dialect": "mysql"
+  }
+}
